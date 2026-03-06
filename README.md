@@ -1,4 +1,4 @@
-Machine Learning
+# Machine Learning
 
 📌 Overview
 This folder documents my complete Machine Learning journey — from foundational concepts in ML I to advanced techniques in ML II, alongside personal self-learning experiments I run outside of coursework.
